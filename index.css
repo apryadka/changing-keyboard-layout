@@ -93,6 +93,7 @@ body {
     padding: 5px;
     text-align: justify;
     overflow-y: auto;
+    overflow-wrap: break-word;
 }
 
 #copyButton {
